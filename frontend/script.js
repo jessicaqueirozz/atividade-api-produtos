@@ -1,5 +1,5 @@
 async function carregarDados() {
-    const url = "http://localhost:3000/";
+    const url = "https://studious-engine-vppjqxv97wr53wr6w-3000.app.github.dev/";
 
     const resposta = await fetch(url);
 
